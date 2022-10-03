@@ -8,7 +8,7 @@ Open Git Bash.
 
 Change the current working directory to the location where you want the cloned directory.
 
-Use this command to clone: git clone https://github.com/smzislam/SimpleRouteWithReact.git
+Use this command to clone: git clone https://github.com/rampage0131/SimpleRouteWithReact.git
 
 
 ## Before run the app install react-router-dom and axios
